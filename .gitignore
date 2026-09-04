@@ -1,0 +1,16 @@
+# compiled binaries
+kvstore
+server
+bench
+*.exe
+*.o
+
+# data files produced at runtime
+data.db
+bench.db
+*.compact
+server.log
+
+# editor / OS junk
+.vscode/
+.DS_Store
